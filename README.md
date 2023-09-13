@@ -6,6 +6,8 @@
   </a>
 </p>
 
+[![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakefeeley)](https://github.com/jakefeeley/github-readme-stats)
+
 ### 📦 What I'm working on...
 - Building **Itinify** - A SaaS platform for building and managing beautiful travel itineraries
 - Developing [Envault](https://github.com/envault/envault), a secure tool for sharing .env credentials within your team.
