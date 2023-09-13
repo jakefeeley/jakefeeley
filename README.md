@@ -6,7 +6,7 @@
   </a>
 </p>
 
-[![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakefeeley)](https://github.com/jakefeeley/github-readme-stats)
+<a href="https://github.com/jakefeeley"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=jakefeeley&show_icons=true" align="right" height="150" /></a>
 
 ### 📦 What I'm working on...
 - Building **Itinify** - A SaaS platform for building and managing beautiful travel itineraries
