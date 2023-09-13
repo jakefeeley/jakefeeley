@@ -1,4 +1,4 @@
-## 🦒 Hey there! I'm [Jake](https://twitter.com/jakefeeleydev)
+## 👋 Hey there! I'm [Jake](https://twitter.com/jakefeeleydev)
 
 <p>
   <a href="https://twitter.com/jakefeeleydev">
@@ -8,7 +8,7 @@
 
 <a href="https://github.com/jakefeeley"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=jakefeeley&show_icons=true" align="right" height="150" /></a>
 
-### 📦 What I'm working on...
+### 📈 What I'm working on...
 - Building **Itinify** - A SaaS platform for building and managing beautiful travel itineraries
 - Developing [Envault](https://github.com/envault/envault), a secure tool for sharing .env credentials within your team.
 - Working on **PrintEase** - A simple package for generating PDF printable forms in your controller without the need for HTML.
