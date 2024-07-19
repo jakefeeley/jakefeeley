@@ -10,5 +10,5 @@
 
 ### 📈 What I'm working on...
 - Building **Itinify** - A SaaS platform for building and managing beautiful travel itineraries
-- Developing [Envault](https://github.com/envault/envault), a secure tool for sharing .env credentials within your team.
+- Developing [Envault](https://github.com/envault/envault), a secure tool for sharing .env credentials within your team. Featured on Laravel News.
 - Working on **PrintEase** - A simple package for generating PDF printable forms in your controller without the need for HTML.
